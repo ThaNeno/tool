@@ -1,3 +1,5 @@
-[Lol.Main]
-EnableSettings=true
-
+{
+  "version": "0.0.1",
+  "download": "https://cdn.discordapp.com/attachments/883795574418210856/894601496145035274/Storm.zip",
+  "updater": "x",
+}
